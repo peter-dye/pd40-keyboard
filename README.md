@@ -35,7 +35,7 @@ Initially I was pretty intimidated because I though I would have to design a PCB
 Once I knew I wanted to build a 40% ortholinear keyboard I needed to get the parts for it.
 This step also financially committed me to the project.
 I learned that buying keyboard parts can take a large portion of your time because how much research is involved.
-I went with what I would consider the easy route and bought pretty much everything I needed from (Adafruit)[https://www.adafruit.com/].
+I went with what I would consider the easy route and bought pretty much everything I needed from [Adafruit](https://www.adafruit.com/).
 The hard route would be buying all sorts of custom and limited run parts, mainly from group buys.
 Group buys take a lot of time to arrive and even knowing about them in the first place requires you to keep a pretty close eye on the mechanical keyboard community.
 It was nice to buy most of the parts from one place, and Adafruit has normal shipping times unlike a lot of keyboard part vendors.
@@ -97,7 +97,7 @@ When the case is closed, all the parts are held securely in place by supports at
 Coming into this I had no previous experience with 3D modelling but I did have a lot of experience with 2D drafting using AutoCAD at work.
 I thought learning the basics of 3D modelling was going to be easier than it actually was. I watched many YouTube videos and read a lot of tutorials before I finished designing the case.
 
-I choose to use (FreeCAD)[https://www.freecadweb.org/] to make the design for two main reasons.
+I choose to use [FreeCAD](https://www.freecadweb.org/) to make the design for two main reasons.
 The first is that it is open source software.
 I try to make a point of using open source software because of the principles behind it and because I support those ideas.
 Of course it has the added benefit of not costing any money.
